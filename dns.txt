@@ -1,0 +1,10 @@
+192.168.0.1 serveur1.uvsq.fr
+10.0.0.2 serveur2.uvsq.fr
+193.51.68.1 dns.uvsq.fr
+193.51.68.2 mail.uvsq.fr
+193.51.68.3 web.uvsq.fr
+193.51.68.4 proxy.uvsq.fr
+8.8.8.8 www.google.com
+98.137.11.163 www.yahoo.com
+193.51.25.24 pikachu.uvsq.fr
+193.51.25.90 www.uvsq.fr
